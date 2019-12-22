@@ -10,5 +10,11 @@ public interface FileReaderInterface {
      * @return List containing each line of the specified file.
      * @throws IOException
      */
-    List<String> read(String path) throws IOException;
+    List<String> read(String path) throws IOException, InvalidTSVFormatException;
+
+    /**
+     * It verifies if the read file has a valid 'Tab Separated Values' format
+     * @return true if has a valid TSV format, false otherwise.
+     */
+    boolean validTSVFormat(List<String> lines);
 }

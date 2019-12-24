@@ -1,4 +1,4 @@
-package reader;
+package ten.pin.bowling.score.app.reader;
 
 import java.io.IOException;
 import java.nio.file.Files;

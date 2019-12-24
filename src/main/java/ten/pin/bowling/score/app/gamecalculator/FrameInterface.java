@@ -1,4 +1,4 @@
-package gamecalculator;
+package ten.pin.bowling.score.app.gamecalculator;
 
 public interface FrameInterface {
     int getTotal();

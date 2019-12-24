@@ -1,4 +1,4 @@
-package validator;
+package ten.pin.bowling.score.app.validator;
 
 import java.util.*;
 

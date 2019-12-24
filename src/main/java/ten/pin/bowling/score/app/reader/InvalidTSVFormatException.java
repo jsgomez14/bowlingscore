@@ -1,4 +1,4 @@
-package reader;
+package ten.pin.bowling.score.app.reader;
 
 public class InvalidTSVFormatException extends Exception {
     public InvalidTSVFormatException(){

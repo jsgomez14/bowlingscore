@@ -1,4 +1,4 @@
-package bowlinggame;
+package ten.pin.bowling.score.app.bowlinggame;
 
 import java.util.List;
 import java.util.Set;

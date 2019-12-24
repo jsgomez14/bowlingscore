@@ -1,5 +1,5 @@
-package gamecalculator;
-import bowlinggame.BowlingGame;
+package ten.pin.bowling.score.app.gamecalculator;
+import ten.pin.bowling.score.app.bowlinggame.BowlingGame;
 import java.util.*;
 
 public class GameCalculator implements GameCalculatorInterface{

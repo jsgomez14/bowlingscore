@@ -1,8 +1,10 @@
-import bowlinggame.BowlingGame;
-import gamecalculator.GameCalculator;
-import reader.FileReader;
-import reader.InvalidTSVFormatException;
-import validator.ContentException;
+package ten.pin.bowling.score.app;
+
+import ten.pin.bowling.score.app.bowlinggame.BowlingGame;
+import ten.pin.bowling.score.app.gamecalculator.GameCalculator;
+import ten.pin.bowling.score.app.reader.FileReader;
+import ten.pin.bowling.score.app.reader.InvalidTSVFormatException;
+import ten.pin.bowling.score.app.validator.ContentException;
 
 import java.io.IOException;
 

@@ -1,7 +1,7 @@
-package bowlinggame;
+package ten.pin.bowling.score.app.bowlinggame;
 
-import validator.ContentException;
-import validator.ContentValidator;
+import ten.pin.bowling.score.app.validator.ContentException;
+import ten.pin.bowling.score.app.validator.ContentValidator;
 
 import java.util.List;
 import java.util.Set;
